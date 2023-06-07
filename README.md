@@ -1,1 +1,1 @@
-# Google_Ads_Keywords_Generation
+# This is a small project, using Python to generate keywords for Google Ads 
